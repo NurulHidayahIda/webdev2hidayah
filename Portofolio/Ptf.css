@@ -1,0 +1,11 @@
+body {
+    min-height: 2000px;
+}
+.hero {
+    padding-top: 2rem;
+    background-color: #e2edff;
+}
+
+#galery {
+    background-color: #e2edff;
+}
